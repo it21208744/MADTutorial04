@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">lab04</string>
+    <string name="submit">submit</string>
+    <string name="text">text</string>
+    <string name="entEmail">Enter Email</string>
+    <string name="EntEmail">Enter Email</string>
+    <string name="pass">password</string>
+    <string name="rePass">Re password</string>
 </resources>
